@@ -4,7 +4,7 @@
   ## 🔌Circuit diagram
   <img src="https://github.com/Simina08Barbu/Gas-detection-car/assets/115221512/c6856922-df96-4b34-a37a-35afc7821f31" width="600" height="500">
 
-  ## 📜Contains
+  ## 📜Components 
   - Arduino UNO R3
   - Sensor MQ-6 
   - Buzzer Module 
